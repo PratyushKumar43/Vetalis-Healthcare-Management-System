@@ -1,6 +1,8 @@
-# MedCore - AI-Powered Healthcare Management System
+# Vetalis - AI-Powered Healthcare Management System
 
 A comprehensive healthcare management platform with AI-powered features, built with Next.js 14, TypeScript, and modern web technologies.
+
+![Vetalis Healthcare Management System](image.png)
 
 ## Features
 
